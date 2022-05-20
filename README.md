@@ -1,4 +1,4 @@
-# LigaRobotoNoctum
+# Ligaturized Roboto Noctum
 Ligaturized version I made from Roboto Mono Medium, with braces added from Monaco. Excellent for coding.
 
 ![image](https://user-images.githubusercontent.com/55773835/168518149-17fecd01-43e1-43e3-a1e4-9ca4882f390c.png)
